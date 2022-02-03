@@ -1,0 +1,10 @@
+# Default ignored files
+/.idea/
+target/
+/shelf/
+
+AppTest.class
+App.class
+
+*.txt
+
